@@ -32,6 +32,18 @@ h2 {
     color: #cf73eb;
 }
 
+.side-box {
+    color: #000506db;
+    background-color: #dabbe3f5;
+    /* margin: 2%; */
+    width: 20%;
+    /* margin-left:0%; */
+    position: static;
+    margin-left: -20%;
+    margin-right: 2%;
+    padding-left: 2%;
+}
+
 .input-group {
     display: flex;
     justify-content: space-between;
