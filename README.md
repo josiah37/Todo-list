@@ -5,3 +5,4 @@ The app is built with HTML, CSS, and JavaScript and provides a user-friendly int
 ### Live Demo
 You can view the live demo of this project on GitHub Pages :
 https://josiah37.github.io/Todo-list/
+
